@@ -1,0 +1,6 @@
+name: Custom-Crafting
+main: Custom-Crafting\MainClass
+version: 1.0.0
+api: [2.0.0]
+author: NetworkGG team
+description: Craft item with custom crafting recipes!
